@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MikeAdewale
 - 👀 I’m interested in data science and machine learning.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on for real life project analysis in research.
+- 🌱 I’m currently learning python for Data Science.
+- 💞️ I’m looking to collaborate on for real life project analysis in healthcare research.
 - 📫 How to reach me mikeakande99@gmail.com
 
 <!---
